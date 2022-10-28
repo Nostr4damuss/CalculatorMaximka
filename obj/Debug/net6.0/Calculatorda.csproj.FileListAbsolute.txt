@@ -1,0 +1,15 @@
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\bin\Debug\net6.0\Calculatorda.exe
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\bin\Debug\net6.0\Calculatorda.deps.json
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\bin\Debug\net6.0\Calculatorda.runtimeconfig.json
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\bin\Debug\net6.0\Calculatorda.dll
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\bin\Debug\net6.0\Calculatorda.pdb
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.AssemblyInfo.cs
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.dll
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\refint\Calculatorda.dll
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.pdb
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\Calculatorda.genruntimeconfig.cache
+C:\Users\Comp\source\repos\Calculatorda\Calculatorda\obj\Debug\net6.0\ref\Calculatorda.dll
